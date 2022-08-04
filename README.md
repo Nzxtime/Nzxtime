@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem-nzxtime.vercel.app/api/spotify)](https://open.spotify.com/user/Nzxtime)
+[![Spotify](https://novatorem-nzxtime.vercel.app/api/spotify)](https://open.spotify.com/user/4pkgdsmuirfp4s15a7yysnieu)
 
 <hr>
 
