@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcel and I'm a Computer Engineering Student, from Austria.</p>
+<p align="left">My name is Marcel, and I'm a Computer Engineering Student from Austria.</p>
 
 ###
 
@@ -62,6 +62,20 @@
   <img src="https://streak-stats.demolab.com?user=Nzxtime&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <h3>Advent of Code</h3>
+  <p><a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.allStars&label=ALL&&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a></p>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2015&label=2015&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2016&label=2016&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2017&label=2017&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2018&label=2018&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2019&label=2019&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2020&label=2020&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2021&label=2021&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2022&label=2022&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+  <a href = "https://adventofcode.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fadventofcode-badge-nzxtime.vercel.app%2Fapi&query=%24.2023&label=2023&color=brightgreen&style=flat&link=https%3A%2F%2Fadventofcode.com"></a>
+</div>
+
 ###
 
 <h2 align="left">Socials</h2>
@@ -70,13 +84,13 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/marcel-streicher" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://twitter.com/Nzxtime" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
   </a>
   <a href="https://linktr.ee/Nzxtime" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/>
   </a>
 </div>
 
@@ -84,5 +98,5 @@
 
 <div align="center">
 <a href="https://github.com/Nzxtime?tab=followers"><img src="https://img.shields.io/github/followers/Nzxtime.svg?style=social&label=Follow&maxAge=z"></a>
-<a href="https://github.com/Nzxtime"><img src="https://komarev.com/ghpvc/?username=Nzxtime&color=brightgreen&style=flat-square" alt="Nzxtime"/></a>
+<a href="https://github.com/Nzxtime"><img src="https://komarev.com/ghpvc/?username=Nzxtime&color=brightgreen&style=flat" alt="Nzxtime"/></a>
 </div>
