@@ -6,6 +6,16 @@
 
 ###
 
+<h2 align="left">Currently listening to</h2>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/4pkgdsmuirfp4s15a7yysnieu"><img src="https://novatorem-wine.vercel.app/api/spotify" alt="Spotify"></a>
+</div>
+
+###
+
 <h2 align="left">I work with</h2>
 
 ###
